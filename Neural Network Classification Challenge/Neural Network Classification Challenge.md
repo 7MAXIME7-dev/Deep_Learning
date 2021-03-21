@@ -12,12 +12,12 @@ The response of the said sensors is read-out in the form of the resistance acros
 There are six possible classes to predict (last column of the dataset):
 
 
-  1 Ethanol
-  2 Ethylene
-  3 Ammonia
-  4 Acetaldehyde
-  5 Acetone
-  6 Toluene
+    - 1 Ethanol
+    - 2 Ethylene
+    - 3 Ammonia
+    - 4 Acetaldehyde
+    - 5 Acetone
+    - 6 Toluene
 
 Number of instances/examples: 13910
 • phpbL6t4U test *.csv : 11128 for train and validation.
