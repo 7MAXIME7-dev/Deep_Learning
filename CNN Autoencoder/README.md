@@ -2122,6 +2122,6 @@ plt.show()
 
 ###Conclusion
 
-Pretty good result !
+Pretty good results !
 
 This could be explained by a lack of samples in the dataset.
