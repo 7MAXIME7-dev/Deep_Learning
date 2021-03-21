@@ -2,14 +2,16 @@
 
 **The goal is to achieve good performance (or as low degradation as possible) over time.**
 
+
 **Attribute Information**
-The response of the said sensors is read-out in the form of the resistance across
-the active layer of each sensor. Hence each measurement produced a 16-channel
-series, each of which represented by an aggregate of features re
-ecting all the
-dynamic processes occurring at the sensor surface in reaction to the chemical
-substance being evaluated.
+
+
+The response of the said sensors is read-out in the form of the resistance across the active layer of each sensor. Hence each measurement produced a 16-channel series, each of which represented by an aggregate of features reecting all the dynamic processes occurring at the sensor surface in reaction to the chemical substance being evaluated.
+
+
 There are six possible classes to predict (last column of the dataset):
+
+
   1 Ethanol
   2 Ethylene
   3 Ammonia
